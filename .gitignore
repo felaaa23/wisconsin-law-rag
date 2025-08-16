@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual envs
+.env
+venv/
+.envrc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chroma / caches / embeddings
+chroma/
+*.db
+index/
+.cache/
+
+# Data
+data/
+downloads/
+pdfs/
